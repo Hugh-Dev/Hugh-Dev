@@ -1,4 +1,4 @@
-### Hola 👋
+###
 <p align="justify">Me caracterizo por adaptarme con agilidad a las condiciones cambiantes del entorno y doy prioridad a la innovación como respuesta ante lo incierto. Tolerante al error y al fracaso, explorar para hacer que las cosas funcionen con aplicaciones web, infraestructuras en la nube, Micro-servicios y/o librerías, combinación de desarrollos de software/hardware de código abierto entre otros es mi bastión, No le tengo miedo a cambiar radicalmente de dirección, escalar o contraerme rápidamente si es necesario. Mi filosofia de trabajo es descarnadamente honesta; nada puede interponerse en la búsqueda de la verdad. Entiendo que no importa cuantas veces puedas caerte si no cuantas te levantas. :muscle: </p> 
 
 
