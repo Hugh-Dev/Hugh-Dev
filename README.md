@@ -1,5 +1,5 @@
 ###
-<p align="justify">Curious mind, open-source believer, science-driven and community-rooted. I build with purpose and think beyond code. I enjoy solving technical debt—it’s led me to combine advanced technical skills with a deep curiosity for understanding far more than just data. :jigsaw: 
+<p align="justify">Curious mind, open-source believer, science-driven and community-rooted. I build with purpose and think beyond code. I enjoy solving technical debt—it’s led me to combine advanced technical skills with a deep curiosity for understanding far more than just data. 🔭
 </p> 
 
 
