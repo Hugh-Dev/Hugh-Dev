@@ -1,3 +1,18 @@
+<div class="info">
+  <p align="center" class="header-image"><img src="images/pycon.png" width="250" alt="Image of Hugo Ramirez looking into camera"></p>
+  <h1 class="name" align="center"><span>Hugo Ramírez</span></h1>
+  <!-- <p class="meta-data" align="center">
+    ✨ Developer Experience at <a target="_blank" rel="noopener noreferrer" href="https://openai.com">OpenAI</a> ✨<br/>
+    ✨ JavaScript hacker ✨<br/>
+    ✨ Hackathon enthusiast ✨<br/>
+    ✨ Public speaker ✨<br/>
+    ✨ Cocktail & food photographer ✨
+  </p>
+  <p class="info-footer" align="center">
+    🥃👨‍💻🐼
+  </p> -->
+</div>
+
 ###
 <p align="justify">Curious mind, open-source believer, science-driven and community-rooted. I build with purpose and think beyond code. I enjoy solving technical debt—it’s led me to combine advanced technical skills with a deep curiosity for understanding far more than just data. 🔭
 </p> 
