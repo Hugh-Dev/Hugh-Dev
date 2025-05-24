@@ -29,10 +29,10 @@
 | [Python México](<https://www.meetup.com/python-mexico/>) | Ciudad de México,&nbsp;🇲🇽​ | Julio 10, 2024 | Python y los Esquemas ETL: El Pivote Esencial para la Inteligencia Artificial | [📹&nbsp;Video](https://youtu.be/o9AGel1P_qU?t=813) |
 
 
-https://youtu.be/o9AGel1P_qU?t=813
+<!-- https://youtu.be/o9AGel1P_qU?t=813
 
 https://github.com/Hugh-Dev/quickstart-schemes-etl
 
 
 https://github.com/Hugh-Dev/generative-pre-trained-transformer-gpt
-https://youtu.be/01V35jpDou0
+https://youtu.be/01V35jpDou0 -->
